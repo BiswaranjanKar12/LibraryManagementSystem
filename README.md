@@ -20,18 +20,3 @@ A simple library management system built in Java with file-based persistence.
    javac *.java
 
 
-
-You can create a file named `README.md` in the **project root** and paste this in.
-
----
-
-### ✅ 2. Push Your Project to GitHub
-
-If you haven’t already:
-
-1. **Initialize Git** in your project folder:
-```bash
-cd LibraryManagementSystem
-git init
-git add .
-git commit -m "Initial commit"
